@@ -1,1 +1,20 @@
+.navbar {
+	font-size: 1em;
+	font-weight: 700;
+}
 
+.row_Color {
+	font-size: 1.1em;
+	background-color: #f2f2f2;
+	padding: 20px;
+	padding-top: 5px;
+	margin-bottom: 30px;
+}
+
+.row_Color h2 { font-weight: 700; }
+
+.Page_header {
+	margin-bottom: 30px;
+}
+
+.Page_header h1 { font-weight: 700; }
